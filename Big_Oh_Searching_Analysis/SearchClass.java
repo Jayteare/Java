@@ -22,10 +22,7 @@ public class SearchClass {
             if(n_key != arr[index])
                 index++;
             else
-            {
                 break;
-            }
-
         }
         
         return index;
@@ -54,11 +51,8 @@ public class SearchClass {
                 miss++;
             }
             else
-            {
                 break;
-            }
         }
-        
         return miss;
     }
 }
