@@ -1,21 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project 
- * Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package hello;
-
 import static hello.Hello.create_arr;
 import static hello.Hello.create_key;
 import static hello.Hello.linear_search_full;
 import static hello.Hello.binary_search_full;
 import java.text.DecimalFormat;
 
-/**
- *
- * @author Can
- */
 public class ThreadSearch_Binary implements Runnable {
     
     Hello mainSc = new Hello();
