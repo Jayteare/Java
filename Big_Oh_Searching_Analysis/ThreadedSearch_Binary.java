@@ -31,7 +31,7 @@ public class ThreadSearch_Binary implements Runnable {
                 + ": BINARY SEARCH THREADED");
             
         /*
-            Linear search start
+            Binary search start
         */
         search_start       = System.nanoTime();
         binary_search_full(arr,key,dynamic_array_size);
@@ -42,7 +42,7 @@ public class ThreadSearch_Binary implements Runnable {
                            + new DecimalFormat("#.##########").format(seconds) 
                            + " Seconds");
         System.out.println("");
-        //Linear search end................................................... 
+        //Binary search end................................................... 
             
         } catch (InterruptedException exc) {
             System.out.println("RunnableThread interruped.");
