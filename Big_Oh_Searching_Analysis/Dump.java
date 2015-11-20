@@ -100,12 +100,20 @@ public class JavaContest {
         
         double[] nData = new double[adD.length + data.length];
         
-        for(int k = 0; k < nData.length; k++)
+        for(int k = 0; k < adD.length; k++)
         {
-            
+            nData[k] = adD[k];
         }
         
-        mean = mean(data);
+        int zeroJ = 0;
+        
+        for(int k = adD.length; k < nData.length;k++)
+        {
+            nData[k] = data[zeroJ];
+            zeroJ++;
+        }
+        
+        mean = mean(nData);
         System.out.printf("Mean is %5.2f ", mean);
         mean = Math.floor(mean);
         Arrays.sort(data);
