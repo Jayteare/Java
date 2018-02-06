@@ -1,0 +1,76 @@
+Initial run after build:
+Numbers Generated: [673, 861, 81, 237, 893, 607, 184, 883, 38, 376]
+Linear Time Total : 0.001220444 Seconds
+
+
+Process finished with exit code 0
+
+Run #1:
+Numbers Generated: [601, 761, 360, 323, 921, 247, 850, 578, 780, 262]
+Linear Time Total : 0.001289778 Seconds
+
+
+Process finished with exit code 0
+
+Run #2:
+Numbers Generated: [586, 526, 260, 891, 794, 727, 771, 939, 246, 547]
+Linear Time Total : 0.001164444 Seconds
+
+
+Process finished with exit code 0
+
+Run #3:
+Numbers Generated: [266, 480, 623, 428, 259, 232, 891, 133, 50, 980]
+Linear Time Total : 0.001305777 Seconds
+
+
+Process finished with exit code 0
+
+Run #4:
+Numbers Generated: [251, 753, 311, 123, 71, 279, 186, 183, 866, 465]
+Linear Time Total : 0.000932444 Seconds
+
+
+Process finished with exit code 0
+
+Run #5:
+Numbers Generated: [250, 318, 829, 354, 353, 166, 469, 919, 304, 13]
+Linear Time Total : 0.001317777 Seconds
+
+
+Process finished with exit code 0
+
+Run #6:
+Numbers Generated: [877, 415, 217, 573, 377, 688, 513, 952, 457, 757]
+Linear Time Total : 0.001821777 Seconds
+
+
+Process finished with exit code 0
+
+Run #7:
+Numbers Generated: [335, 203, 3, 738, 812, 882, 363, 331, 984, 455]
+Linear Time Total : 0.001296444 Seconds
+
+
+Process finished with exit code 0
+
+Run #8:
+Numbers Generated: [814, 573, 542, 788, 760, 219, 189, 596, 39, 326]
+Linear Time Total : 0.001198221 Seconds
+
+
+Process finished with exit code 0
+
+Run #9:
+Numbers Generated: [569, 499, 186, 380, 342, 355, 469, 81, 311, 238]
+Linear Time Total : 0.001284443 Seconds
+
+
+Process finished with exit code 0
+
+Run #10:
+Numbers Generated: [804, 908, 838, 139, 49, 962, 87, 263, 692, 630]
+Linear Time Total : 0.001447555 Seconds
+
+
+Process finished with exit code 0
